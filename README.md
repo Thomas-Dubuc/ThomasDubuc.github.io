@@ -13,9 +13,9 @@ Evironmental Constucts<br/>
 <br/>
 Modeling<br/>
 ![alt text](Corner-Base.png)<br/>
-![alt text](TV Renders/Corner-transparent.png)<br/>
-![alt text](TV Renders/Front-Base.png)<br/>
-![alt text](TV Renders/Front-transparent.png)<br/>
-![alt text](TV Renders/Side-base.png)<br/>
-![alt text]([TV Renders/Side-transparent.png](https://github.com/Thomas-Dubuc/ThomasDubuc.github.io/blob/85d45ed8f824bd7e9e11497a1731192f8d8d7d53/TV%20Renders/Side-transparent.png))<br/>
-![atlt](TV Renders/Side-transparent.png)
+![alt text](Corner-transparent.png)<br/>
+![alt text](Front-Base.png)<br/>
+![alt text](Front-transparent.png)<br/>
+![alt text](Side-base.png)<br/>
+![alt text](Side-transparent.png)<br/>
+
