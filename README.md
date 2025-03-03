@@ -32,8 +32,8 @@ Modeling<br/>
 ![alt text](Side-base.png)<br/>
 ![alt text](Side-transparent.png)<br/>
 
-### Walkie Talkie Model and Textures
-# I am proud of this one; Texturing had some new techniques like text and text fading away using a dirt black mask. I think that the wireframe/topologies kinda suck for some of the areas, like lack of loop cuts or too many.<br/>
+# Walkie Talkie Model and Textures
+### I am proud of this one; Texturing had some new techniques like text and text fading away using a dirt black mask. I think that the wireframe/topologies kinda suck for some of the areas, like lack of loop cuts or too many.<br/>
 But I think the texturing is improving, especially through more layers and focusing on building more in each material. Thining the metal antenna would loot better, especially with the ball on the top. Also, the text might be unrealistic in font and text due to a lack of high-quality images.<br/>
 Overall, getting better and focusing on the modelling part to learn new strategies for good-looking topology needs to be focused.
 ![alt](WalkeTalkeCorner-baseColor.png)
