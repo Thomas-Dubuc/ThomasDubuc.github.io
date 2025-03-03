@@ -7,6 +7,8 @@ My name is Thomas Dubuc, i've been interested in game deisgn years ago starting 
 
 Texturing<br/>
 <br/>
+> [!NOTE]
+> Foregrip Model & Textures
 <br/>
 # foregrip
 ### Verticle Foregrip, fun making it, learned new texturing strategies with blur and checkerboard patterns!
@@ -17,6 +19,8 @@ Texturing<br/>
 
 Evironmental Constucts<br/>
 <br/>
+> [!NOTE]
+> Scope Model & Textures
 <br/>
 # Scope
 ### This is a scope I model and textured. This was a new deep dive in adding different layered textures with notches. I found straightening the UVs important to this project, especially for the dials that require notches. Changing the textile densities could be better, especially for the smaller items, which make seeing the back almost impossible. Removing vertices from the pins could also be a good strategy for reducing count without changing larger, more impactful details. The sphericle square located in the middle could also be done with more resolution or a different topology strategy showing better curves when seen up close and to the side. Also, Colors should be better, but I struggle a bit with those due to colour blindness.
