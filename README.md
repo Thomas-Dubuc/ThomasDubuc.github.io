@@ -33,6 +33,8 @@ But as a second real attempt at realism, I'd say I'm getting better; I think hav
 
 Modeling<br/>
 <br/>
+> [!NOTE]
+> Futuristic TV Model & Textures
 <br/>
 # Futuristic TV <br/>
 ### This one was fun and took a while in substance, I tried to use the text and icons I previously learned to use effectively. I had two problems with this: the first was in the screen/glass, which has some artifacts(not sure if it is the correct term), and the second is the top left metal panel, which is darker for some reason, not sure why. The handle had too many cuts, along with a few other things, and I think the paint could have looked better.<br/>
@@ -42,7 +44,11 @@ Modeling<br/>
 ![alt text](Front-transparent.png)<br/>
 ![alt text](Side-base.png)<br/>
 ![alt text](Side-transparent.png)<br/>
-
+<br/>
+> [!NOTE]
+> Scope Model & Textures
+<br/>
+<br/>
 # Walkie Talkie Model and Textures
 ### I am proud of this one; Texturing had some new techniques like text and text fading away using a dirt black mask. I think that the wireframe/topologies kinda suck for some of the areas, like lack of loop cuts or too many.<br/>
 ### But I think the texturing is improving, especially through more layers and focusing on building more in each material. Thining the metal antenna would loot better, especially with the ball on the top. Also, the text might be unrealistic in font and text due to a lack of high-quality images.<br/>
