@@ -11,6 +11,12 @@ Texturing<br/>
 Evironmental Constucts<br/>
 <br/>
 <br/>
+![alt](Corner.png)
+![alt](Side-Transparent.png)
+![alt](Top.png)
+![alt](Top-Transparent.png)
+
+
 Modeling<br/>
 ![alt text](Corner-Base.png)<br/>
 ![alt text](Corner-transparent.png)<br/>
