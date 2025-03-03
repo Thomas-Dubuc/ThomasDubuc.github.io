@@ -60,7 +60,11 @@ Modeling<br/>
 ![alt](WalkeTalkeSide-WireFrame.png)
 
 # Malicious Monsters
+Malicious Monsters is a capstone game developed for school over the school year, we have 8 members who focus on wide veriaty of tasks. I modeld and uv unwrapped the weapons and some props, I found weapons to be challanging and changed the way I viewed topologie and uv editing for different art styles.
+## Weapons
+### AK-47
 ![alt](AK_Side.png)
+I chose a foldable stock as a functional and visual choice because it could be used in different states and could be use to add to animations but can be ignore if scope lowers while still keeping fedelity and realism twoards the weapon design.
 ![alt](AK_Side-WireFrame.png)
 ![alt](AK_Side-Textil.png)
 
