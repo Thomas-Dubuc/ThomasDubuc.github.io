@@ -23,10 +23,19 @@ Evironmental Constucts<br/>
 
 
 Modeling<br/>
+<br/>
+<br/>
 ![alt text](Corner-Base.png)<br/>
 ![alt text](Corner-transparent.png)<br/>
 ![alt text](Front-Base.png)<br/>
 ![alt text](Front-transparent.png)<br/>
 ![alt text](Side-base.png)<br/>
 ![alt text](Side-transparent.png)<br/>
+
+![alt](WalkeTalkeCorner-baseColor.png)
+![alt](WalkeTalkeFront-baseColor.png)
+![alt](WalkeTalkeFront-WireFrame.png)
+![alt](WalkeTalkeSide-BaseColor.png)
+![alt](WalkeTalkeSide-WireFrame.png)
+
 
