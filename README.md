@@ -8,6 +8,11 @@ My name is Thomas Dubuc, i've been interested in game deisgn years ago starting 
 Texturing<br/>
 <br/>
 <br/>
+![alt](Grip-Textile.png)
+![alt](Grip-color.png)
+![alt](Grip-WireFrame.png)
+
+
 Evironmental Constucts<br/>
 <br/>
 <br/>
