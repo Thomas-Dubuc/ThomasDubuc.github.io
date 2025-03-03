@@ -1,6 +1,6 @@
 # ThomasDubuc.github.io
 Portfolio  <br/>
-[## ArtStation!](https://www.artstation.com/thomas_dubuc)<br/>
+## [ArtStation!](https://www.artstation.com/thomas_dubuc)<br/>
 
 My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper props. 
 ![alt text](Factory-1-1.png)<br/>
@@ -58,5 +58,10 @@ Modeling<br/>
 ![alt](WalkeTalkeFront-WireFrame.png)
 ![alt](WalkeTalkeSide-BaseColor.png)
 ![alt](WalkeTalkeSide-WireFrame.png)
+
+# Malicious Monsters
+![alt](AK_Side.png)
+![alt](AK_Side-WireFrame.png)
+![alt](AK_Side-Textil.png)
 
 
