@@ -69,7 +69,7 @@ I chose a foldable stock as a functional and visual choice because it could be u
 ![alt](AK_Side-Textil.png)
 
 ![alt](Chainsaw.png)
-![alt](0001-0110.mkv)
+![alt](Club Corner.png)
 ![alt](
 ![alt](
 ![alt](
