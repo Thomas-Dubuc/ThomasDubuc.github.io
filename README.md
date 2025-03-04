@@ -77,8 +77,10 @@ I chose a foldable stock as a functional and visual choice because it could be u
 ![alt](Revolver-Render.png)
 ![alt](Revolver-Wireframe.png)
 ![alt](Shovel.png)
-
 ![alt](Pistol-with-filter.png)
+
+# Evironmental Design
+## Castle Series
 ![alt](Caslte-Render-3-fog.png)
 ![alt](castle.png)
 ![alt](castle_viewport.png)
@@ -91,7 +93,9 @@ I chose a foldable stock as a functional and visual choice because it could be u
 ![alt](Factory-2-Render-2normal)
 ![alt](Factory-2-Render-2Wireframe)
 ![alt](Factory-EnvConstruct-Render-1)
+
 ![alt](Personal-Industrial-Render.png)
-![alt](Personal-Industrial-Render)
+This industrial corner is an early attemp I had recreating an area i photographed. It lacks personality and dirt as well as detail and propper lighitng but was still a learning process recreating and replacing the textures and models.
+![alt](ps1resto)
 
 
