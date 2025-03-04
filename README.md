@@ -78,3 +78,21 @@ I chose a foldable stock as a functional and visual choice because it could be u
 ![alt](Revolver-Wireframe.png)
 ![alt](Shovel.png)
 
+![alt](Pistol-with-filter.png)
+![alt](Caslte-Render-3-fog.png)
+![alt](castle.png)
+![alt](castle_viewport.png)
+![alt](Castle-Render-3.png)
+![alt](Factory-1-Render-1 - Normal.png)
+![alt](Factory-1-Render-1 - Wireframe.png)
+![alt](Factory-1-Render-2 - normal.png)
+![alt](Factory-1-Render-2 - Wireframe.png)
+![alt](Factory-2-Render-1 - nomal.png)
+![alt](Factory-2-Render-1 - Wireframe.png)
+![alt](Factory-2-Render-2 - normal.png)
+![alt](Factory-2-Render-2 - Wireframe.png)
+![alt](Factory-EnvConstruct-Render-1.png)
+![alt](Personal-Industrial-Render.png)
+![alt](ps1 resto.png)
+
+
