@@ -60,7 +60,7 @@ Modeling<br/>
 ![alt](WalkeTalkeSide-WireFrame.png)
 
 # Malicious Monsters
-Malicious Monsters is a capstone game developed for school over the school year, we have 8 members who focus on wide veriaty of tasks. I modeld and uv unwrapped the weapons and some props, I found weapons to be challanging and changed the way I viewed topologie and uv editing for different art styles.
+Malicious Monsters is a capstone game developed for school over the school year, we have 8 members who focus on wide veriaty of tasks. I modeld and uv unwrapped the weapons and some props, I found weapons to be challanging and changed the way I viewed topologie and uv editing for different art styles. Malicious Monsters is a low poly game making topology and poly counts to be essential and providing the propper models was difficult, although making and writing down pipelines helped and provided the propper framwork to develope simmilar models.
 ## Weapons
 ### AK-47
 ![alt](AK_Side.png)
