@@ -1,9 +1,9 @@
- ThomasDubuc.github.io
- thomasdubuc.com
+ ThomasDubuc.github.io<br/>
+ thomasdubuc.com<br/>
 Portfolio  <br/>
-links!
+links!<br/>
 ## [ArtStation!](https://www.artstation.com/thomas_dubuc)<br/>
-# Thomas Dubuc
+# Thomas Dubuc<br/>
 
 My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper props. 
 ![alt text](Factory-1-1.png)<br/>
@@ -67,10 +67,11 @@ Malicious Monsters is a capstone game developed for school over the school year,
 ## Weapons
 ### AK-47
 ![alt](AK_Side.png)
-I chose a foldable stock as a functional and visual choice because it could be used in different states and could be use to add to animations but can be ignore if scope lowers while still keeping fedelity and realism twoards the weapon design.
-![alt](AK_Side-WireFrame.png)
-![alt](AK_Side-Textil.png)
-
+I chose a foldable stock as a functional and visual choice because it could be used in different states and could be use to add to animations but can be ignore if scope lowers while still keeping fedelity and realism twoards the weapon design.<br/>
+![alt](AK_Side-WireFrame.png)<br/>
+![alt](AK_Side-Textil.png)<br/>
+<br/>
+<br/>
 ![alt](Chainsaw.png)
 ![alt](Rake.png)
 ![alt](Revolver-Render.png)
