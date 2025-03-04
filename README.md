@@ -1,5 +1,5 @@
-# ThomasDubuc.github.io
-# thomasdubuc.com
+ ThomasDubuc.github.io
+ thomasdubuc.com
 Portfolio  <br/>
 links!
 ## [ArtStation!](https://www.artstation.com/thomas_dubuc)<br/>
