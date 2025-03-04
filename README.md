@@ -1,6 +1,8 @@
 # ThomasDubuc.github.io
 Portfolio  <br/>
+links!
 ## [ArtStation!](https://www.artstation.com/thomas_dubuc)<br/>
+# Thomas Dubuc
 
 My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper props. 
 ![alt text](Factory-1-1.png)<br/>
