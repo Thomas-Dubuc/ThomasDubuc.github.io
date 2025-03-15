@@ -1,11 +1,14 @@
- ThomasDubuc.github.io<br/>
+
+ body {
+ background: #CEE864
+}ThomasDubuc.github.io<br/>
  thomasdubuc.com<br/>
 Portfolio  <br/>
 links!<br/>
 ## [ArtStation!](https://www.artstation.com/thomas_dubuc)<br/>
 # Thomas Dubuc<br/>
 
-My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper assets. `#CEE864`
+My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper assets. 
 ![alt text](Factory-1-1.png)<br/>
 
 Texturing<br/>
