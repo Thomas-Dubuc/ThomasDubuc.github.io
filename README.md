@@ -5,7 +5,7 @@ links!<br/>
 ## [ArtStation!](https://www.artstation.com/thomas_dubuc)<br/>
 # Thomas Dubuc<br/>
 
-My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper assets. `#000000`
+My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper assets. `#CEE864`
 ![alt text](Factory-1-1.png)<br/>
 
 Texturing<br/>
