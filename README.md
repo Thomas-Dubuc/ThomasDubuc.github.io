@@ -15,6 +15,7 @@ My name is Thomas Dubuc, i've been interested in game deisgn years ago starting 
 
 ## Contact Me<br/>
 thomaswdubuc@gmail.com
+
 (519) 710-9876
 
 
