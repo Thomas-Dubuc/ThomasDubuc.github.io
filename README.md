@@ -1,15 +1,24 @@
  ThomasDubuc.github.io<br/>
  thomasdubuc.com<br/>
+ 
 Portfolio  <br/>
+
+
+
 links!<br/>
-## [ArtStation!](https://www.artstation.com/thomas_dubuc)<br/>
+## [ArtStation](https://www.artstation.com/thomas_dubuc)<br/>
+## [Linked In](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 # Thomas Dubuc<br/>
 
-My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper assets. 
-![alt text](Factory-1-1.png)<br/>
+My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper assets. I also love making environments in different styles which can be seen on my art station!
 
-Texturing<br/>
-<br/>
+
+
+
+## My work
+
+
+
 > [!NOTE]
 > Foregrip Model & Textures
 <br/>
@@ -40,7 +49,7 @@ Modeling<br/>
 > Futuristic TV Model & Textures
 <br/>
 # Futuristic TV <br/>
-### This one was fun and took a while in substance, I tried to use the text and icons I previously learned to use effectively. I had two problems with this: the first was in the screen/glass, which has some artifacts(not sure if it is the correct term), and the second is the top left metal panel, which is darker for some reason, not sure why. The handle had too many cuts, along with a few other things, and I think the paint could have looked better.<br/>
+### This one was fun and took a while in substance, I tried to use the text and icons I previously learned to use effectively. I had two problems with this: the first was in the screen/glass, which has some artifacts, and the second is the top left metal panel, which is darker for some reason, not sure why. The handle had too many cuts, along with a few other things, and I think the paint could have looked better.<br/>
 ![alt text](Corner-Base.png)<br/>
 ![alt text](Corner-transparent.png)<br/>
 ![alt text](Front-Base.png)<br/>
