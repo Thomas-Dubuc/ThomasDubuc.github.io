@@ -1,7 +1,4 @@
-
- body {
- background: #CEE864
-}ThomasDubuc.github.io<br/>
+ ThomasDubuc.github.io<br/>
  thomasdubuc.com<br/>
 Portfolio  <br/>
 links!<br/>
