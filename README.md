@@ -19,7 +19,7 @@ thomaswdubuc@gmail.com
 (519) 710-9876
 
 
-
+![alt](Copy of Black_and_White_Corporate_Resume.pdf (1)-1.png)
 
 
 
