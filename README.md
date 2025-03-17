@@ -10,7 +10,7 @@ links!<br/>
 ## [Linked In](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 
-My name is Thomas Dubuc, i've been interested in game deisgn years ago starting with csgo maps and blender modeling and now using full production workflows to model and design proper assets. I participate in game jams and environmental modelling in different styles.
+My name is Thomas Dubuc; I've been interested in game design for years, starting with CSGO maps and Blender modelling and now using complete production workflows to model and design proper assets. I love participating in game jams, especially when modelling in different styles, challenging my creativity by producing a finished product.
 
 
 ## Contact Me<br/>
