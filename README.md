@@ -1,10 +1,3 @@
- ThomasDubuc.github.io<br/>
- thomasdubuc.com<br/>
- 
-Portfolio  <br/>
-
-
-
 ##links!<br/>
  [ArtStation](https://www.artstation.com/thomas_dubuc)
  [Linked In](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
