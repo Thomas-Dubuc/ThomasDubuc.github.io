@@ -19,7 +19,7 @@ The water gun was made as a secret weapon/testing weapon for the game Malicious 
 ![alt](WaterGun.png)
 
 
-![alt](Copy of Black_and_White_Corporate_Resume.pdf (1)-1.png)
+
 
 
 
